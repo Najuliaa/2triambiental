@@ -1,9 +1,9 @@
    :root {
-    --primary-color: #026773;
-    --secondary-color: #3CA6A6;
-    --text-color: #024959;
+    --primary-color: #d1b4d1;
+    --secondary-color: #80b1d1;
+    --text-color: #d3719a;
     --background-color: #e5f1ff;
-    --button-hover: #012E40;
+    --button-hover: #0aa1dd;
     --font-body: "Chocolate Classical Sans", serif;
     --font-titulo: "Rakkas", serif;
 }
@@ -17,7 +17,7 @@ body {
     font-weight: bold;
     text-align: center;
     text-decoration: underline;
-    color: white;
+    color: rgb(247, 247, 247);
 }
 h3 h1 h2{
     margin-top: 25px;
@@ -34,7 +34,7 @@ img {
     max-width: 90%;
 }
 footer{
-    background-color: black;
+    background-color: rgb(255, 255, 255);
     border-radius: 5px;
 }
 .lista{
@@ -44,7 +44,7 @@ footer{
     gap: 50px;
 }
 .nav1, .nav2, .nav3{
-    background-color: #cdd7db;
+    background-color: #98c7e6;
     padding: 5px 10px;
     border-radius: 20px;
     position: relative;
@@ -91,7 +91,7 @@ footer{
 .cabecalho{
     position: relative;
     padding: 5px 5px;
-    background-color: black;
+    background-color: rgb(128, 2, 54);
     border-radius: 8px;
     color: white;
     overflow: hidden;
